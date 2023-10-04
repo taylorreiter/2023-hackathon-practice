@@ -1,6 +1,6 @@
 # Contributing
 
-The purpose of this repository is to use as practice for making contributions to repository that you do not have write access to.
+The purpose of this repository is to use it as practice for making contributions to a repository that you do not have write access to.
 Our contribution guidelines reflect this.
 
 All contributions should come from a fork whether the contributor has direct write access to the repository or not.
